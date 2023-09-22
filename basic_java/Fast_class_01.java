@@ -8,3 +8,4 @@ public class Fast_class_01 {
         
     }
 }
+//
